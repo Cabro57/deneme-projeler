@@ -1,6 +1,6 @@
 # deneme-projeler
 Öğrenme aşamasında denediğim oluşturduğum projeler
 
-Bilgisayar = Çalışıyor
-Hesap_Makinesi = Çalışıyor
-Döviz = Her fonksiyon sorunsuz fakat sonuç vermiyor.
+Bilgisayar = Çalışıyor\n
+Hesap_Makinesi = Çalışıyor\n
+Döviz = Her fonksiyon sorunsuz fakat sonuç vermiyor.\n
